@@ -46,6 +46,7 @@ http://daf.csulb.edu/offices/vp/information_security/information_classification_
 2. Users take full responsibility if anything is lost, broken or altered.
 3. Forty-Niner Shops, Inc. take no resposibiilty if users loses, broke or altered anything their personal computer or machine.
 <br/>
+
 ## License and Copyright 
 <br/> 
  `Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved` 
