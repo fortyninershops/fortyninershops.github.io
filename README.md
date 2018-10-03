@@ -13,6 +13,9 @@
     <a href="#dependencies">
         <img src="https://img.shields.io/badge/html-css-yellowgreen.svg"
             alt="dependencies"></a>
+     <a href="#development">
+        <img src="https://img.shields.io/badge/development-ongoing-green.svg"
+            alt="development"></a>
    <a href="https://fortyninershops.github.io">
         <img src="https://img.shields.io/badge/status-working-brightgreen.svg"
             alt="status"></a>
