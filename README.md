@@ -1,4 +1,6 @@
-# fortyninershops.github.io
+<p align="center">
+<h1> fortyninershops.github.io </h1>
+</p>
 <p align="center">
     <a href="https://raw.githubusercontent.com/fortyninershops/fortyninershops.github.io/master/LICENSE" alt="FNS License">
         <img src="https://img.shields.io/badge/license-FNS-yellow.svg"/></a>
@@ -12,10 +14,10 @@
         <img src="https://img.shields.io/badge/members-6-lightgrey.svg"
             alt="members recorded"></a> <!--members-##-lightgrey.svg  to add members-->
 </p>
-
+<p align="center">
 https://www.fortyninershops.net/ <br />
 fortyninershops.github.io   
-
+</p>
 This github only contains files that belong to Forty Niner Shops Inc. <br/>
 Confidential information shall not be in this repository. <br/> <br/>
 
