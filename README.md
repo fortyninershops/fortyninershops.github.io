@@ -2,11 +2,17 @@
 <h1> fortyninershops.github.io </h1>
 </p>
 <p align="center">
+    <a href="#GPG">
+        <img src="https://img.shields.io/badge/GPG-2.2.10-E52B50.svg"
+            alt="GPG"></a>
     <a href="https://raw.githubusercontent.com/fortyninershops/fortyninershops.github.io/master/LICENSE" alt="FNS License">
         <img src="https://img.shields.io/badge/license-FNS-yellow.svg"/></a>
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
             alt="version"></a>
+    <a href="#dependencies">
+        <img src="https://img.shields.io/badge/html-css-yellowgreen.svg"
+            alt="dependencies"></a>
    <a href="https://fortyninershops.github.io">
         <img src="https://img.shields.io/badge/status-working-brightgreen.svg"
             alt="status"></a>
