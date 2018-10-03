@@ -21,6 +21,7 @@ fortyninershops.github.io
 This github only contains files that belong to Forty Niner Shops Inc. <br/>
 Confidential information shall not be in this repository. <br/> <br/>
 </p>
+
 ## Calfornia State University, Long Beach - Information Classification Standard
 - California Public Records Act is strictly enforced in Forty-Niner Shops, Inc.
 - Any other information that is deemed Level-1 information is never allowed to be published on world wide web services (such as students, employees' personal information, any information that is unique to an individual, and etc.) and other web services such as github, bitbucket, gitlab, or any git related services.
