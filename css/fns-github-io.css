@@ -2,6 +2,7 @@
 text-align: center;
 }
 
-.notice p{
-    text-align: center;
+#notice {
+/*    text-align: center;*/
 }
+
