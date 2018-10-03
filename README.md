@@ -12,7 +12,5 @@ Confidential information shall not be in this repository. <br/> <br/>
 
                               
 ## License and Copyright
-    
-    `Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved` <br/>
-    
-    fortyninershops.github.io
+fortyninershops.github.io    
+                            `Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved` 
