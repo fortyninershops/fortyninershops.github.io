@@ -2,7 +2,15 @@
 text-align: center;
 }
 
-#notice {
-/*    text-align: center;*/
+#link {
+ text-align: center;
 }
 
+#notice {
+    text-align: center;
+   }
+   
+
+footer{
+    text-align: center;
+}
