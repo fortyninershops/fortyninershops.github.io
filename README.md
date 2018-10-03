@@ -10,4 +10,4 @@ fortyninershops.github.io
 ## License and Copyright
 - Only granted of those present in office and is a current employee of Forty-Niner Shops, Inc.<br/>
     
-    `Copyright (C) 2018  Webmaster, Web Specialist, IT Manager - Forty-Niner Shops, Inc. - All Rights Reserved`
+    `Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved`
