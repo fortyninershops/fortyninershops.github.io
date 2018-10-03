@@ -8,5 +8,5 @@ https://www.fortyninershops.net/
 fortyninershops.github.io
 
 ## License and Copyright
+- Only granted of those present in office
   `Copyright (C) 2018  Webmaster, Web Specialist, IT Manager - Forty-Niner Shops, Inc. - All Rights Reserved`
-                                `Only granted of those in office`
