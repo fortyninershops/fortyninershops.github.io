@@ -1,4 +1,18 @@
 # fortyninershops.github.io
+<p align="center">
+    <a href="https://raw.githubusercontent.com/fortyninershops/fortyninershops.github.io/master/LICENSE" alt="FNS License">
+        <img src="https://img.shields.io/badge/license-FNS-yellow.svg"/></a>
+    <a href="#version">
+        <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
+            alt="version"></a>
+   <a href="https://fortyninershops.github.io">
+        <img src="https://img.shields.io/badge/status-working-brightgreen.svg"
+            alt="status"></a>
+  <a href="#members"> 
+        <img src="https://img.shields.io/badge/members-6-lightgrey.svg"
+            alt="members recorded"></a> <!--members-##-lightgrey.svg  to add members-->
+</p>
+
 https://www.fortyninershops.net/ <br />
 fortyninershops.github.io   
 
@@ -20,15 +34,15 @@ http://daf.csulb.edu/offices/vp/information_security/information_classification_
      to commit, change, fork, and make rules regarding this repository. <br/> <br/>
 
 ## Modifications, commits, and file changes.
-     1. Any updates needs to be signed by a The GNU Privacy Guard (GPG) if to change, modify, delete or commit.
-     2. Information provided by authorized editor(s)(modifier(s)) are allowed to write and publish neccessary information <br/>
-     that is deemed fit, however the authorized editor(s)(modifier(s)) is responsible for any event after push/publish changes.
+1. Any updates needs to be signed by a The GNU Privacy Guard (GPG) if to change, modify, delete or commit.
+2. Information provided by authorized editor(s)(modifier(s)) are allowed to write and publish neccessary information <br/>
+   that is deemed fit, however the authorized editor(s)(modifier(s)) is responsible for any event after push/publish changes.
 <br>
 
 ## Disclaimer
-     1. Any software, works, scripts, products from the Forty-Niner Shops, Inc. is AS-IS product.
-     2. Users take full responsibility if anything is lost, broken or altered.
-     3. Forty-Niner Shops, Inc. take no resposibiilty if users loses, broke or altered anything their personal computer or machine.
+1. Any software, works, scripts, products from the Forty-Niner Shops, Inc. is AS-IS product.
+2. Users take full responsibility if anything is lost, broken or altered.
+3. Forty-Niner Shops, Inc. take no resposibiilty if users loses, broke or altered anything their personal computer or machine.
 <br/>
 ## License and Copyright
                             `Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved` 
