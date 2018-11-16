@@ -59,6 +59,9 @@ http://daf.csulb.edu/offices/vp/information_security/information_classification_
 
 ## License and Copyright 
 <br/>                        
-<br/> Refer to: https://raw.githubusercontent.com/fortyninershops/fortyninershops.github.io/master/LICENSE for more information.
+<br/>
+<br/>
 
-                                Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved
+Refer to: https://raw.githubusercontent.com/fortyninershops/fortyninershops.github.io/master/LICENSE for more information.
+
+                              Copyright (C) 2018 Forty-Niner Shops, Inc. - All Rights Reserved
