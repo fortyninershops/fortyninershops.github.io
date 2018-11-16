@@ -58,8 +58,6 @@ http://daf.csulb.edu/offices/vp/information_security/information_classification_
 <br/>
 
 ## License and Copyright 
-<br/>                        
-<br/>
 <br/>
 
 Refer to: https://raw.githubusercontent.com/fortyninershops/fortyninershops.github.io/master/LICENSE for more information.
